@@ -54,4 +54,7 @@ The app provides a possibility to maintain blog list. CRUD Posts CRUD User
 ### Post interface
 ![Alt text](https://i.ibb.co/TmjVbFF/page2.png)
 
+## Notice
+This is the first version, this project will be more developped soon.
 
+Enjoy 😎
